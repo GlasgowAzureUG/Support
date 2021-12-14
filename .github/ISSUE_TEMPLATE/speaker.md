@@ -5,16 +5,20 @@ title: "[SPEAKER] <your-name>"
 labels: [speaker]
 body:
   - type: input
-    id: link
+    id: link  
     attributes:
       label: Session Title
       placeholder: The title of your session
     validations:
       required: true
+  - type: input
+    id: link
       label: Session Description
       placeholder: Some details on your session
     validations:
       required: true
+  - type: input
+    id: link
       label: Session Length
       placeholder: The length of your session in time
     validations:
