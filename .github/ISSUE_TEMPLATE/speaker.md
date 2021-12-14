@@ -1,4 +1,3 @@
----
 name: Speaker
 about: 'Use this to indicate if you would like to speak at a Glasgow Azure User Group
   meetup. '
@@ -24,5 +23,7 @@ body:
     attributes:
       value: |
         Be sure to follow our Twitter account to keep up to date with everything that is going on.  [Follow us on Twitter](https://www.twitter.com/glasgowazureug)
+  
+
 
 
