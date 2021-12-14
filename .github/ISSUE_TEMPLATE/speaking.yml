@@ -30,4 +30,3 @@ body:
       label: Session Details
       description: What is your session about?
       render: shell
-      required: true
