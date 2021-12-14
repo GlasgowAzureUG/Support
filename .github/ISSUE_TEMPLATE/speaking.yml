@@ -3,6 +3,7 @@ description: Use this form to volunteer to speak at a Glasgow Azure User Group m
 title: "[Speaking]: "
 labels: ["speaker"]
 assignees:
+  - weeyin83
 body:
   - type: markdown
     attributes:
